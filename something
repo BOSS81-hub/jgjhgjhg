@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>portfolio</title>
+</head>
+<body>
+  <h1 class="topic"> Topic:WEB LAYOUT </h1>
+  <p class="topic-body">
+    in this topic, we will learn about creating a Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, laboriosam ut? Optio, esse ea animi vitae sequi unde molestiae nulla nobis veritatis mollitia dolore. Libero error dignissimos commodi nihil similique?</p>
+
+    <section id="section-1">
+
+        <div class="first-div">
+<h2>Hello guys</h2>
+<p>welcome to flip to tech</p>
+        </div>
+
+
+        <div class="second-div">
+            <h2>i am frontened developer at flip to tech</h2>
+            <p>you are very much welcome to fliptotech and i will be tutor</p>
+        </div>
+
+
+     <img src="images/village-8663792_1280.jpg" width="500" height="300" alt="">
+
+     <div>
+       <p> this is a video from flip to tech</p>
+
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/eHEQY3ua_uY?si=kej--LK51LPw16Eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        append an image here
+     </div>
+    </section>
+
+
+    
+    <article>
+        <h2>Sample article</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur cumque perferendis, facilis deleniti dignissimos corrupti deserunt tempore alias placeat pariatur repellat nulla. Odio, consequatur? Laborum inventore debitis explicabo. Saepe, velit.</p>
+    </article>
+  </p>
+</body>
+</html>
+
